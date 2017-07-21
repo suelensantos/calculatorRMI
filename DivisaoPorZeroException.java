@@ -4,8 +4,7 @@
 
 public class DivisaoPorZeroException extends Exception {
 
-	public DivisaoPorZeroException (String s) {
-		super(s);
-	}
-
+    public DivisaoPorZeroException (String s) {
+        super(s);
+    }
 }
